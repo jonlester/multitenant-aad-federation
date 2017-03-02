@@ -1,0 +1,16 @@
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\owin-integration.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\owin-integration.pdb
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.Security.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Owin.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.xml
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.Security.xml
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Code\multitenant-aad-federation\src\owin-integration\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Code\multitenant-aad-federation\src\owin-integration\obj\Debug\owin-integration.dll
+C:\Code\multitenant-aad-federation\src\owin-integration\obj\Debug\owin-integration.pdb
+C:\Code\multitenant-aad-federation\src\owin-integration\obj\Debug\owin-integration.csprojResolveAssemblyReference.cache
